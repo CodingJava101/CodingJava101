@@ -12,8 +12,7 @@ In Unity, I specialize in backend but I can also create many of the frontend fea
 - Video games with unity
   - School Projects that recreate and modify arcade games like Pong, Asteroids, Angry Birds etc.
   - Many attempts at creating a commercial games but lack of artists makes it difficult.
-  - Currently making a large scale multiplayer co-op game with several people. If all goes well, it will be almost done by early April, 2025 and published sometime after.
-    
+  - Currently making a large scale multiplayer co-op game with several people. Right now, I have done about 80% of the work but hoping to get more people in that project to reduce it. DM me if you want in! The game is called Death Kitchen, and you can find the Steam page for it below. PLEASE WISHLIST THE GAME NOW! Wishlists really matter when it comes to the visibility of the game, I would really appreciate it if you could wishlist Death Kitchen and follow our social media channels. Join the discord as well!
 - Discord bot
   - Assignment/homework tracking, attendance tracking, and everything to manage a club all in one bot.
   - More small bots for other servers.
@@ -22,3 +21,6 @@ I also have a website! Here's my [about me](https://codingjava.gamedevelopment.c
 
 ### My Stats
 [![CodingJava101's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingJava101)](https://github.com/anuraghazra/github-readme-stats)
+
+# Death Kitchen
+[![Wishlist on Steam Today](https://img.shields.io/badge/Steam-Wishlist-103361?logo=steam&style=for-the-badge)](https://store.steampowered.com/app/3603380/?utm_source=github&utm_content=readme)
