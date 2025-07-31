@@ -22,5 +22,9 @@ I also have a website! Here's my [about me](https://codingjava.gamedevelopment.c
 ### My Stats
 [![CodingJava101's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingJava101)](https://github.com/anuraghazra/github-readme-stats)
 
+### Commit History:
+I have 20+ repositories but most of them are private, so here is my commit history for you to see.
+<img width="949" height="441" alt="image" src="https://github.com/user-attachments/assets/b9a1631c-78cd-48eb-9ab2-726eaed27632" />
+
 # Death Kitchen
 [![Wishlist on Steam Today](https://img.shields.io/badge/Steam-Wishlist-103361?logo=steam&style=for-the-badge)](https://store.steampowered.com/app/3603380/?utm_source=github&utm_content=readme)
